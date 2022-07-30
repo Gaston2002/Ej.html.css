@@ -1,0 +1,96 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+/* capa del contenido */
+/* .card{
+    background-color: steelblue;
+    color:black;
+    display: inline-block;
+    width: auto;
+    width: 300px;
+    /* width: 300px;
+    height:300px;
+    overflow: auto; */
+    
+    /* arriba, derech, abajo, izquirda */
+
+    /* padding-top: 20px;
+    padding-right: 40px;
+    padding-bottom: 60px;
+    padding-left: 80px; */
+
+    /* padding: 15px 45px; */
+    /* border-width: 5px; */
+    /* border-style: solid;
+    border-color: purple;
+     border-top-width:30px ;
+     border-right-width:30px ;
+     border-bottom:  30px; ;
+     border-left-width:30px ;
+     border-style: dotted;
+     
+     border-top-color: blue;
+     border-right-color: black;
+     border-bottom-color: aqua;
+     border-left-color: darkorchid; */ 
+
+
+
+
+.primerParrafo{
+    background-color: steelblue;
+    color:black;
+    display: inline-block;
+    width: auto;
+    width: 300px;
+    /* width: 300px;
+    height:300px;
+    overflow: auto; */
+    
+    /* arriba, derech, abajo, izquirda */
+
+    /* padding-top: 20px;
+    padding-right: 40px;
+    padding-bottom: 60px;
+    padding-left: 80px; */
+
+    padding: 15px 45px;
+    /* border-width: 5px; */
+    border-style: solid;
+    border-color: purple;
+     border-top-width:30px ;
+     border-right-width:30px ;
+     border-bottom:  30px; ;
+     border-left-width:30px ;
+     border-style: dotted;
+     
+     /* border-top-color: blue;
+     border-right-color: black;
+     border-bottom-color: aqua;
+     border-left-color: darkorchid; */
+
+     border-color: blueviolet;
+
+
+
+}
+
+.primerParrafo{
+    /* margin-top: 50px;
+    margin-right: 30px;
+    margin-bottom: 70px;
+    margin-left: 10px; */
+    margin: 50px, 50px, 20px,10px;
+}
+
+.main{
+    background-color: blue;
+    color: aliceblue;
+    margin-bottom: 100px;
+}
+.footer{
+background-color: aqua;
+color: black;
+margin-top: 150px;
+}
